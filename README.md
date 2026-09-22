@@ -66,3 +66,44 @@ MINI 链接虽然最便宜，但**只有年付**，而这家开业年份未公�
 - [跑路预警查询](https://tizizhinan.com/runaway/) · [评测方法论](https://tizizhinan.com/about/methodology/)
 
 > 价格与解锁状态以官网结算页为准，本页数据复核于 2026-09-18。本站为推广联盟成员，通过本页链接购买不影响你的价格。
+
+---
+
+## 每日自动监测
+
+本站每天 20:00 从海外探测节点探测一次无忧链接官网入口，数据公开可引用。
+
+| 指标 | 数值 |
+| :-- | :-- |
+| 最近一次检测 | 2026-09-21 20:00 |
+| 官网状态 | 在线（186ms） |
+| 30 天可用率 | 100%（已测 4 天） |
+| 连续正常 | 4 天 |
+
+可用率只按官网可达计算。逐日色条与完整历史见 [https://tizizhinan.com/status/](https://tizizhinan.com/status/)，机器可读数据见 [monitor.json](https://tizizhinan.com/data/monitor.json)（CC BY 4.0）。
+
+## 当前主打套餐
+
+| 套餐 | 价格 | 流量 | 每 GB | 线路 | 运营 / 收录 |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| 舒心链接（主推） | ¥19/月 | 100GB | ¥0.19 | IPLC 专线 | 收录 5 天 |
+
+价格以官网结算页为准，本表随官网调整更新。完整套餐表与逐项评测见 [无忧链接评测](https://tizizhinan.com/brands/wuyou/)。
+
+## 本站收录的其他机场
+
+无忧链接在 [2026 机场推荐榜](https://tizizhinan.com/airport/recommend/) 中排第 8 位。同榜其余各家：
+
+1. [二猫云](https://github.com/tizizhinan/tizi-ermaoyun) · [完整评测](https://tizizhinan.com/brands/ermaoyun/)
+2. [宇宙云](https://github.com/tizizhinan/tizi-yuzhouyun) · [完整评测](https://tizizhinan.com/brands/yuzhouyun/)
+3. [光速云](https://github.com/tizizhinan/tizi-guangsu) · [完整评测](https://tizizhinan.com/brands/guangsu/)
+4. [星岛梦](https://github.com/tizizhinan/tizi-xingdaomeng) · [完整评测](https://tizizhinan.com/brands/xingdaomeng/)
+5. [暮光网络](https://github.com/tizizhinan/tizi-muguang) · [完整评测](https://tizizhinan.com/brands/muguang/)
+6. [微风网络](https://github.com/tizizhinan/tizi-weifeng) · [完整评测](https://tizizhinan.com/brands/weifeng/)
+7. [飞猫云](https://github.com/tizizhinan/tizi-feimao) · [完整评测](https://tizizhinan.com/brands/feimao/)
+
+完整榜单与横向对比：[github.com/tizizhinan/tizi](https://github.com/tizizhinan/tizi) ｜ [https://tizizhinan.com/airport/recommend/](https://tizizhinan.com/airport/recommend/)
+
+---
+
+*本页由 [梯子指南 TiziZhinan](https://tizizhinan.com) 编辑部维护，数据每日自动更新。展示顺序为编辑部固定排序，不等于评分高低，评分口径见[评测方法论](https://tizizhinan.com/about/methodology/)。站内品牌链接含推广参数，详见[免责声明与推广披露](https://tizizhinan.com/disclaimer/)。*
