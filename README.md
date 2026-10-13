@@ -75,10 +75,10 @@ MINI 链接虽然最便宜，但**只有年付**，而这家开业年份未公�
 
 | 指标 | 数值 |
 | :-- | :-- |
-| 最近一次检测 | 2026-10-12 20:00 |
-| 官网状态 | 在线（177ms） |
-| 30 天可用率 | 100%（已测 21 天） |
-| 连续正常 | 21 天 |
+| 最近一次检测 | 2026-10-13 20:00 |
+| 官网状态 | 在线（171ms） |
+| 30 天可用率 | 100%（已测 22 天） |
+| 连续正常 | 22 天 |
 
 可用率只按官网可达计算。逐日色条与完整历史见 [https://tizizhinan.co/status/](https://tizizhinan.co/status/)，机器可读数据见 [monitor.json](https://tizizhinan.co/data/monitor.json)（CC BY 4.0）。
 
@@ -86,7 +86,7 @@ MINI 链接虽然最便宜，但**只有年付**，而这家开业年份未公�
 
 | 套餐 | 价格 | 流量 | 每 GB | 线路 | 运营 / 收录 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| 舒心链接（主推） | ¥19/月 | 100GB | ¥0.19 | IPLC 专线 | 收录 25 天 |
+| 舒心链接（主推） | ¥19/月 | 100GB | ¥0.19 | IPLC 专线 | 收录 26 天 |
 
 价格以官网结算页为准，本表随官网调整更新。完整套餐表与逐项评测见 [无忧链接评测](https://tizizhinan.co/brands/wuyou/)。
 
@@ -101,6 +101,7 @@ MINI 链接虽然最便宜，但**只有年付**，而这家开业年份未公�
 5. [暮光网络](https://github.com/tizizhinan/tizi-muguang) · [完整评测](https://tizizhinan.co/brands/muguang/)
 6. [微风网络](https://github.com/tizizhinan/tizi-weifeng) · [完整评测](https://tizizhinan.co/brands/weifeng/)
 7. [飞猫云](https://github.com/tizizhinan/tizi-feimao) · [完整评测](https://tizizhinan.co/brands/feimao/)
+8. [边缘节点](https://github.com/tizizhinan/tizi-edgenova) · [完整评测](https://tizizhinan.co/brands/edgenova/)
 
 完整榜单与横向对比：[github.com/tizizhinan/tizi](https://github.com/tizizhinan/tizi) ｜ [https://tizizhinan.co/airport/recommend/](https://tizizhinan.co/airport/recommend/)
 
