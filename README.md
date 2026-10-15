@@ -75,10 +75,10 @@ MINI 链接虽然最便宜，但**只有年付**，而这家开业年份未公�
 
 | 指标 | 数值 |
 | :-- | :-- |
-| 最近一次检测 | 2026-10-14 20:00 |
-| 官网状态 | 在线（178ms） |
-| 30 天可用率 | 100%（已测 23 天） |
-| 连续正常 | 23 天 |
+| 最近一次检测 | 2026-10-15 20:00 |
+| 官网状态 | 在线（167ms） |
+| 30 天可用率 | 100%（已测 24 天） |
+| 连续正常 | 24 天 |
 
 可用率只按官网可达计算。逐日色条与完整历史见 [https://tizizhinan.co/status/](https://tizizhinan.co/status/)，机器可读数据见 [monitor.json](https://tizizhinan.co/data/monitor.json)（CC BY 4.0）。
 
@@ -86,7 +86,7 @@ MINI 链接虽然最便宜，但**只有年付**，而这家开业年份未公�
 
 | 套餐 | 价格 | 流量 | 每 GB | 线路 | 运营 / 收录 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| 舒心链接（主推） | ¥19/月 | 100GB | ¥0.19 | IPLC 专线 | 收录 27 天 |
+| 舒心链接（主推） | ¥19/月 | 100GB | ¥0.19 | IPLC 专线 | 收录 28 天 |
 
 价格以官网结算页为准，本表随官网调整更新。完整套餐表与逐项评测见 [无忧链接评测](https://tizizhinan.co/brands/wuyou/)。
 
@@ -94,8 +94,8 @@ MINI 链接虽然最便宜，但**只有年付**，而这家开业年份未公�
 
 无忧链接在 [2026 机场推荐榜](https://tizizhinan.co/airport/recommend/) 中排第 8 位。同榜其余各家：
 
-1. [二猫云](https://github.com/tizizhinan/tizi-ermaoyun) · [完整评测](https://tizizhinan.co/brands/ermaoyun/)
-2. [宇宙云](https://github.com/tizizhinan/tizi-yuzhouyun) · [完整评测](https://tizizhinan.co/brands/yuzhouyun/)
+1. [宇宙云](https://github.com/tizizhinan/tizi-yuzhouyun) · [完整评测](https://tizizhinan.co/brands/yuzhouyun/)
+2. [二猫云](https://github.com/tizizhinan/tizi-ermaoyun) · [完整评测](https://tizizhinan.co/brands/ermaoyun/)
 3. [光速云](https://github.com/tizizhinan/tizi-guangsu) · [完整评测](https://tizizhinan.co/brands/guangsu/)
 4. [星岛梦](https://github.com/tizizhinan/tizi-xingdaomeng) · [完整评测](https://tizizhinan.co/brands/xingdaomeng/)
 5. [暮光网络](https://github.com/tizizhinan/tizi-muguang) · [完整评测](https://tizizhinan.co/brands/muguang/)
